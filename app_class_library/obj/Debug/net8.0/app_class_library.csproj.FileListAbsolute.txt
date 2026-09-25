@@ -1,0 +1,14 @@
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\bin\Debug\net8.0\app_class_library.deps.json
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\bin\Debug\net8.0\app_class_library.dll
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\bin\Debug\net8.0\app_class_library.pdb
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\app_class_library.csproj.AssemblyReference.cache
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\app_class_library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\app_class_library.AssemblyInfoInputs.cache
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\app_class_library.AssemblyInfo.cs
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\app_class_library.csproj.CoreCompileInputs.cache
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\app_class_library.sourcelink.json
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\app_class_library.dll
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\refint\app_class_library.dll
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\app_class_library.pdb
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\ref\app_class_library.dll
+C:\Users\Chick\source\repos\gift_of_the_givers\app_class_library\obj\Debug\net8.0\app_clas.800E3A71.Up2Date
