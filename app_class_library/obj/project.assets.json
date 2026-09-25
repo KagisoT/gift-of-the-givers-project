@@ -123,11 +123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chick\\source\\repos\\gift_of_the_givers\\app_class_library\\app_class_library.csproj",
+      "projectUniqueName": "C:\\Users\\Chick\\OneDrive\\Documentos\\gift-of-the-givers\\app_class_library\\app_class_library.csproj",
       "projectName": "app_class_library",
-      "projectPath": "C:\\Users\\Chick\\source\\repos\\gift_of_the_givers\\app_class_library\\app_class_library.csproj",
+      "projectPath": "C:\\Users\\Chick\\OneDrive\\Documentos\\gift-of-the-givers\\app_class_library\\app_class_library.csproj",
       "packagesPath": "C:\\Users\\Chick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chick\\source\\repos\\gift_of_the_givers\\app_class_library\\obj\\",
+      "outputPath": "C:\\Users\\Chick\\OneDrive\\Documentos\\gift-of-the-givers\\app_class_library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
